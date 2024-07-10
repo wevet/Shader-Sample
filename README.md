@@ -6,6 +6,9 @@ Version 5.4
 - Imposter Baker
 
 # DEMO
+![SDF Shadow](Demo/SDF_Shadow.gif)
+©Hokai StarRail
+
 ![Custom Depth Shadow](Demo/CustomShadowMap.png)
 
 ![WetShader](Demo/Wet_Shader.png)
